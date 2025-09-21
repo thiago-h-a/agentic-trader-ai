@@ -1,7 +1,6 @@
-# LLM Stock Backtesting Dashboard API
+# LLM Stock Trader API
 
 A compact FastAPI backend that streams an LLM-driven backtest and exposes a few helper endpoints.
-This refactor reorganizes the code for clarity while keeping **the same API endpoints and JSON shapes** so the front-end layout and behavior remain untouched.
 
 ## Quickstart
 
